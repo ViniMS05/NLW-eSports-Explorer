@@ -6,7 +6,7 @@ Projeto construido
 no evento Next Level Week
 da Rockeatseat
 
-[Acesse Aqui](https://ViniMS05.github.io/nlw-esports-explorer/)
+[Acesse Aqui](https://vinims05.github.io/NLW-eSports-Explorer/)
 
 ## Tecnologias
 
