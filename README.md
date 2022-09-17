@@ -1,6 +1,6 @@
 # NLW eSports - Explorer
 
-![preview] (./.github/nlw-esports.png)
+![preview](./.github/nlw-esports.png)
 
 Projeto construido
 no evento Next Level Week
